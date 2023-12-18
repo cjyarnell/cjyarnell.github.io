@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cjyarnell.github.io/al-folio/sitemap.xml
+Sitemap: https://cjyarnell.github.io/sitemap.xml
