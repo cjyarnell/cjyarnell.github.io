@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: AERONOT-Observational
+description: Assessing Equity, Rationale, and Outcomes in Non-invasive and invasive Oxygen Therapy - Observational study. This project is an observational study of non-intubated patients with acute hypoxemic respiratory failure. We are gathering more information on thresholds for testing in clinical trials, and investigating if there is inequity in the use of invasive ventilation according to some of the social determinants of health. 
+img: assets/img/aeronot.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.
