@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.shn.ca/#'>Scarborough Health Network</a>. cyarnell[at]shn.ca
 
 profile:
   align: right
