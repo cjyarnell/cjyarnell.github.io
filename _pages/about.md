@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.shn.ca/#'>Scarborough Health Network</a>. cyarnell[at]shn.ca
+subtitle: <a href='https://www.shn.ca/'>Scarborough Health Network</a>. cyarnell[at]shn.ca
 
 profile:
   align: right
@@ -14,9 +14,9 @@ profile:
     <p>3050 Lawrence Ave E</p>
     <p>Toronto, Ontario, Canada M1P2V5</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
