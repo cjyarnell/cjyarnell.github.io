@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a intensivist and scientist working in Toronto, Canada. 
+I am a intensivist and scientist working in Toronto, Canada. This website is in progress.
 
 Clinically, I work in the intensive care units at the Scarborough Health Network (General, Birchmount, and Centenary sites). 
 
