@@ -1,8 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Christopher Yarnell
 
 - title: Education
   type: time_table
