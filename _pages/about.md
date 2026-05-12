@@ -20,10 +20,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a intensivist and scientist working in Toronto, Canada. This website is in progress.
+I am a intensive care physician and scientist working in Toronto, Canada.
 
 Clinically, I work in the intensive care units at the Scarborough Health Network. 
 
-Academically, I conduct research focused on improving the quality and equity of care in respiratory failure.
+Academically, I conduct research focused on improving the quality and equity of care for critically ill patients. I have active research programs focused on respiratory failure and electrolyte supplementation, among other topics. My methodological expertise ranges from Bayesian and multilevel analysis to clinical informatics. I am an active member of the Canadian Critical Care Trials Group.
 
-We are building research capacity at the Scarborough Health Network. I'm keen to hear from any potentially interested collaborators, health professionals, data scientists, or patient partners who share my conviction that we can do innovative, inclusive, practice-changing research in Scarborough! 
+We are building research capacity at the Scarborough Health Network. I'm keen to hear from any potentially interested collaborators, clinicians, data scientists, or patient partners who share my conviction that we can do innovative, inclusive, practice-changing research in Scarborough!
